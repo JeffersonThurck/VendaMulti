@@ -1,0 +1,14 @@
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Application.deps.json
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Application.dll
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Application.pdb
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Domain.dll
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Infraestructure.dll
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Domain.pdb
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\bin\Debug\netcoreapp3.1\VendaMulti.Infraestructure.pdb
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.AssemblyInfoInputs.cache
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.AssemblyInfo.cs
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.csproj.CopyComplete
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.dll
+C:\Users\jeffe\source\repos\VendaMulti\VendaMulti.Application\obj\Debug\netcoreapp3.1\VendaMulti.Application.pdb

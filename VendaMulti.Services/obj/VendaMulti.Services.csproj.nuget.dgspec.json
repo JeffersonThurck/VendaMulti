@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Services\\VendaMulti.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Application\\VendaMulti.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Application\\VendaMulti.Application.csproj",
+        "projectName": "VendaMulti.Application",
+        "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Application\\VendaMulti.Application.csproj",
+        "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj": {
+                "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj"
+              },
+              "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Infraestructure\\VendaMulti.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Infraestructure\\VendaMulti.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj",
+        "projectName": "VendaMulti.Domain",
+        "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj",
+        "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Infraestructure\\VendaMulti.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Infraestructure\\VendaMulti.Infraestructure.csproj",
+        "projectName": "VendaMulti.Infraestructure",
+        "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Infraestructure\\VendaMulti.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj": {
+                "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Domain\\VendaMulti.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Services\\VendaMulti.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Services\\VendaMulti.Services.csproj",
+        "projectName": "VendaMulti.Services",
+        "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Services\\VendaMulti.Services.csproj",
+        "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Application\\VendaMulti.Application.csproj": {
+                "projectPath": "C:\\Users\\jeffe\\source\\repos\\VendaMulti\\VendaMulti.Application\\VendaMulti.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
